@@ -1,0 +1,12 @@
+{
+  "name": "skinny7",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "parcel-bundler": "^1.6.1",
+    "date-time-primitive": "1.0.0",
+    "@lottiefiles/lottie-player": "1.5.7"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
